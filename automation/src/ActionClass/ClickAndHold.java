@@ -22,7 +22,9 @@ public class ClickAndHold {
 	       
 	       Thread.sleep(3000);
 	       action.release(circle).perform();
-	        
+	 
+	       
+	       
 	}
 
 }
